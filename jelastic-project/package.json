@@ -1,0 +1,14 @@
+{
+  "name": "jelastic-project",
+  "version": "0.0.0",
+  "description": "Generated with Eclipse npm Tools",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "dependencies":{
+	  "express":"^4.15.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
