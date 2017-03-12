@@ -11,7 +11,7 @@
   },
   "engine":{
 	  "node":"7.3.0"
-  }
-  "author": "",
+  },
+  "author": "logan",
   "license": "ISC"
 }
